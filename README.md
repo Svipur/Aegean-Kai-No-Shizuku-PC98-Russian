@@ -1,6 +1,8 @@
 # Что это.
 
-Русский перевод игры Aegean Kai No Shizuku для PC-98. Своего рода ранний японский ответ знаменитому Myst.
+Русский перевод игры *Aegean Kai No Shizuku* для PC-98. Своего рода ранний японский ответ знаменитому Myst.
+
+![Egee](https://github.com/Svipur/Aegean-Kai-No-Shizuku-PC98-Russian/assets/71509002/c839279f-8341-4053-ac4d-26e2574d3ec2)
 
 # Как установить?
 
